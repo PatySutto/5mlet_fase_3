@@ -44,15 +44,14 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/PatySutto/5mlet_postech.git
-cd 5mlet_postech
+git clone https://github.com/PatySutto/5mlet_fase_3.git
 ```
 
 ### 2. Crie um Ambiente Virtual
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+source .\venv\Scripts\activate   # No Linux: venv/bin/activate
 ```
 
 ### 3. Instale as Dependências
@@ -61,10 +60,8 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Execute o Aplicativo
+### 4. Execute os modelos
 
-```bash
-python run.py
 ```
-
-O aplicativo estará disponível em `http://localhost:5000`.
+Escolha o modelo desejado e clique em "Run All".
+```
