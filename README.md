@@ -20,6 +20,7 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
 │       ├── regressão_logistica.ipynb
 │       ├── support_vector_machine.ipynb
 │       └── xgboost.ipynb   
+├── modelo_regressao_logistica.pkl
 ├── README.md
 └── requirements.txt
 
@@ -35,6 +36,7 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
         - **`regressão_logistica.ipynb`**: Notebook com o modelo de Regressão Logística.
         - **`support_vector_machine.ipynb`**: Notebook com o modelo de Support Vector Machine (SVM).
         - **`xgboost.ipynb`**: Notebook com o modelo de XGBoost.
+- **`modelo_regressao_logistica.pkl`**: Modelo de Regressão Logística já treinado.
 - **`README.md`**: Documentação do projeto.
 - **`requirements.txt`**: Lista de dependências do projeto.
 
