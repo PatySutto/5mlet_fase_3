@@ -4,8 +4,9 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
 
 - **Dataset**: A base de dados empregada neste projeto foi obtida a partir da seguinte fonte: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
-- **Dataset**: O modelo escolhido para ser usado foi o de Regrssão Logistica e pode ter testado no link: https://fivemlet-f3-streamlit.onrender.com/<br>
-O código pode ser encontrado pelo link: https://github.com/PatySutto/5mlet_f3_streamlit
+- **Dataset**: O modelo selecionado para este projeto foi Regressão Logística.
+Você pode testar a aplicação online neste link: [Streamlit App](https://fivemlet-f3-streamlit.onrender.com/)<br>
+O código-fonte completo está disponível no GitHub: [Repositório do projeto](https://github.com/PatySutto/5mlet_f3_streamlit)
 
 
 ## 📁 Estrutura do Projeto
