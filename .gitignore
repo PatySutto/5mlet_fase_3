@@ -177,3 +177,5 @@ cython_debug/
 
 # Arquivos 
 requirements-1.txt
+
+teste.py

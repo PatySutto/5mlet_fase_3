@@ -4,6 +4,8 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
 
 - **Dataset**: A base de dados empregada neste projeto foi obtida a partir da seguinte fonte: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
+- **Dataset**: O modelo escolhido para ser usado foi o de Regrssão Logistica e pode ter testado no link: https://fivemlet-f3-streamlit.onrender.com/
+
 
 ## 📁 Estrutura do Projeto
 
@@ -20,7 +22,7 @@ Este projeto foi desenvolvido como parte do curso de Pós-Tech da FIAP e tem com
 │       ├── regressão_logistica.ipynb
 │       ├── support_vector_machine.ipynb
 │       └── xgboost.ipynb   
-├── modelo_regressao_logistica.pkl
+├── modelo_regressao_logistica.joblib
 ├── README.md
 └── requirements.txt
 
