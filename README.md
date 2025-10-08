@@ -25,6 +25,7 @@ O código-fonte completo está disponível no GitHub: [Repositório do projeto](
 │       ├── support_vector_machine.ipynb
 │       └── xgboost.ipynb   
 ├── modelo_regressao_logistica.joblib
+├── postech_fase_3.pdf
 ├── README.md
 └── requirements.txt
 
@@ -41,6 +42,7 @@ O código-fonte completo está disponível no GitHub: [Repositório do projeto](
         - **`support_vector_machine.ipynb`**: Notebook com o modelo de Support Vector Machine (SVM).
         - **`xgboost.ipynb`**: Notebook com o modelo de XGBoost.
 - **`modelo_regressao_logistica.pkl`**: Modelo de Regressão Logística já treinado.
+- **`postech_fase_3.pdf`**: Documento com o resumo do que foi feito e os resultados de cada modelo.
 - **`README.md`**: Documentação do projeto.
 - **`requirements.txt`**: Lista de dependências do projeto.
 
